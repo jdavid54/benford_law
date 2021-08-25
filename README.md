@@ -10,7 +10,7 @@ La fréquence d'apparition du premier chiffre significatif (1 à 9) suit une cou
   
 ![Benford curve](https://upload.wikimedia.org/wikipedia/commons/b/b7/Loi_de_Benford_freq_relat.PNG)  
 
-![Benford logarithm curves](https://github.com/jdavid54/benford_law/blob/main/benford1.png) 
+![Benford logarithm curves](https://github.com/jdavid54/benford_law/blob/main/benford_1.png) 
 
 On vérifie que la somme de ces fréquences vaut log(10) = 1.
 
