@@ -10,6 +10,8 @@ La fréquence d'apparition du premier chiffre significatif (1 à 9) suit une cou
   
 ![Benford curve](https://upload.wikimedia.org/wikipedia/commons/b/b7/Loi_de_Benford_freq_relat.PNG)  
 
+![Benford logarithm curves](https://github.com/jdavid54/benford_law/blob/main/benford1.png) 
+
 On vérifie que la somme de ces fréquences vaut log(10) = 1.
 
 # Python
@@ -19,6 +21,6 @@ Ensuite on prend le premier chiffre significatifs de ces produits (1 à 9) et de
 
 Le résultat est mis dans une liste freq qu'on affiche en comparaison avec la courbe théorique de Benford.
 
-![Benford curve](Loi_de_Benford_freq_relat.PNG) 
+![Benford curve](https://github.com/jdavid54/benford_law/blob/main/benford2.png) 
 
 
