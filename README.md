@@ -11,3 +11,14 @@ La fréquence d'apparition du premier chiffre significatif (1 à 9) suit une cou
 ![Benford curve](https://upload.wikimedia.org/wikipedia/commons/b/b7/Loi_de_Benford_freq_relat.PNG)  
 
 On vérifie que la somme de ces fréquences vaut log(10) = 1.
+
+# Python
+
+Le programme se propose de tirer 100 nombres qui sont un produit de 2 ou plus nombres aléatoires entre 1 et max=10000.
+Ensuite on prend le premier chiffre significatifs de ces produits (1 à 9) et de les dénombrer.
+
+Le résultat est mis dans une liste freq qu'on affiche en comparaison avec la courbe théorique de Benford.
+
+![Benford curve](Loi_de_Benford_freq_relat.PNG) 
+
+
